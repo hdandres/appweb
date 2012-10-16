@@ -1,0 +1,15 @@
+# archivos creados por los IDES Eclipse, ZEND, Netbeans, PHPStorm y TextMate2
+.buildpath
+.project
+.settings
+nbproject
+.idea
+.tm_properties
+#archivos de intecambio linux
+.swp
+# configuration files
+trunk/src/application/config/config.php 
+trunk/src/application/config/database.php 
+trunk/src/application/config/routes.php
+*~
+*OLD.*
